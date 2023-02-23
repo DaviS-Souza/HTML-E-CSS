@@ -1,0 +1,53 @@
+body {
+    background: black;
+}
+
+#title, .subtitle, .post_title {
+    color: #696969;
+}
+
+#title {
+    font-size: 32px;
+    text-transform: uppercase;
+    font-family: 'Gangsta', sans-serif;
+}
+
+.subtitle {
+    font-size: 32px;
+    font-family: 'Gangsta', sans-serif;
+}
+
+.post{
+    background-color: white;
+    padding: 10px;
+    border: 10px solid #c0c0c0;
+    
+}
+
+.post_title {
+    font-size: 32px;
+    font-family: 'Gangsta', sans-serif;
+}
+
+.post_content {
+    color: black;
+    margin: 0;
+    margin-bottom: 15px;
+ }  
+
+ .post_image {
+    margin-bottom: 15px;
+    width: 100%;
+ }
+
+ .Sound_List {
+    list-style-type: none;
+    padding-left: 15px;
+    font-family: 'Gangsta', sans-serif;
+ }
+
+ .Sound_List li a {
+    text-decoration: none;
+    color: #696969;
+    font-family: 'Gangsta', sans-serif;
+ }
